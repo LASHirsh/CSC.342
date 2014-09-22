@@ -5,7 +5,7 @@
 1. *HTML markup of an online manifesto* 
  >Create a page describing an online manifesto in HTML5 alone.
  - <a href="http://lashirsh.github.io/CSC.342/prog1.html">prog1.html</a> - the html markup
- - <a href="http://lashirsh.github.io/CSC.342/prog1.rtf">prog1.rtf</a> - results of code validation and cross-browser testing
+ - <a href="http://lashirsh.github.io/CSC.342/prog1.txt">prog1.txt</a> - results of code validation and cross-browser testing
 
 
 2. *Style the manifesto with CSS*
