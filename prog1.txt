@@ -1,0 +1,76 @@
+Lauren Hirsh
+CSC 342, Assignment 1b
+
+***********************
+*** CODE VALIDATION ***
+***********************
+
+// NU MARKUP CHECKER: TEST 1 
+The first check I ran produced the 4 errors and 2 warnings, most of which were due to typos/missing characters. All issues were corrected and a subsequent test of the markup produced 0 errors and 0 warnings…
+
+// NU MARKUP CHECKER: TEST 2
+
+ 1. Info: The Content-Type was text/html. Using the HTML parser.
+ 2. Info: Using the schema for HTML with SVG 1.1, MathML 3.0, RDFa 1.1, and ITS 2.0 support.
+ *Document checking completed.*
+
+ OUTLINE
+ 1. HTML markup of an online manifesto
+	Manifesto for Agile Software Development
+	Signatories
+
+ *Total execution time 5 milliseconds.*
+
+*****************************
+*** CROSS-BROWSER TESTING ***
+*****************************
+
+Using Browserstack (both live and responsive testing as well as the screenshots generating services), I tested my webpage on the following browsers:
+
+	Firefox for Windows
+	Firefox for OS X
+	Chrome for Windows
+	Chrome for OS X
+	Chrome for Android
+	Internet Explorer for Windows
+	Safari for OS X
+	Safari for iOS
+
+Multiple combinations of platform and browser versions were tested at various screen resolutions and on different devices (for Android and iOS). Mobile devices and browser version selections were made based on relative usage in the United States for the last 3 months and for the current month per StatCounter Global Stats (http://gs.statcounter.com/). No obvious issues were detected. 
+
+ Firefox for Windows:
+   - Windows XP, Firefox 31, 1024x768 & 1280x1024 
+   - Windows 7, Firefox 32, 1024x768 & 1280x1024
+   - Windows 8.1, Firefox 32 & 33Beta, 1366x768, 1680x1050, & 2048x1536
+
+ Firefox for OS X:
+   - OS X Mountain Lion, Firefox 31, 1280x1024 & 1920x1080
+   - OS X Mavericks, Firefox 32 & 33Beta, 1600x1200 & 1920x1080
+
+ Chrome for Windows
+   - Windows XP, Chrome 35, 1024x768 & 1280x1024 
+   - Windows 7, Chrome 36, 1024x768 & 1280x1024
+   - Windows 8.1, Chrome 37, 1366x768, 1680x1050, & 2048x1536
+
+ Chrome for Mac OS X:
+  - OS X Mountain Lion, Chrome 35 & 36, 1280x1024 & 1920x1080
+  - OS X Mavericks, Chrome 36 & 37, 1600x1200 & 1920x1080
+
+ Chrome for Android:
+  - Android 4.0, Amazon Kindle Fire HD 8.9 
+  - Android 4.1, Samsung Galaxy S III & Galaxy Note II
+  - Android 4.2, LG Nexus 4
+
+ Internet Explorer for Windows: 
+  - Windows XP, IE 8.0, 1024x768 & 1280x1024 
+  - Windows 7, IE 8.0, 1024x768 & 1280x1024
+  - Windows 8.1, IE 11.0 Desktop, 1366x768, 1680x1050, & 2048x1536
+
+ Safari for OS X:
+  - OS X Mountain Lion, Safari 6.1, 1280x1024 & 1920x1080
+  - OS X Mavericks, Safari 7.0, 1600x1200 & 1920x1080
+
+Safari for iOS:
+  - iOS 6, iPhone 4S & iPad mini
+  - IOS 7, iPhone 5S & iPad 3
+
