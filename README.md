@@ -1,4 +1,7 @@
 #<a href="http://webclass.csc.ncsu.edu/"><img src="http://lashirsh.github.io/CSC.342/img/webclass.png" align="left" hspace="40" vspace=0"></a>  CSC 342: Applied Web-based Client-Server Computing 
+
+*CSC 342 explores client-server computing on the World Wide Web. The course focuses on the architecture of web-based client-server applications and accepted industry practices.*
+
 ---------
 ## Coding Assignments
 
